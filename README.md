@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhanyang-727
-- 🌱 I’m currently learning python and other programming languages.
+- 🌱 I’m learning Python and other programming languages, they're always too updated to catch up...
 - 💞️ I’m looking to collaborate on machine learning.
 - ⚡ Fun fact: I'm thinking of getting a dog...
 
